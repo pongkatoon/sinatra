@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Resize angle, count, and stage on keypoint number change (#7598)
