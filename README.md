@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Fix Yolo 8.0.206 scale bug (#7821)
