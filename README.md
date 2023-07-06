@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
