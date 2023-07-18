@@ -1,1 +1,1 @@
-added badges (#45)
+Updated SQL Query Plot Code (#8120)
