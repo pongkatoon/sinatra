@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Clean up unused imgsz (#7771)
