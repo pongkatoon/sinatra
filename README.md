@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add Amazon Sagemaker Docs integrations page (#7293)
