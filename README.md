@@ -1,1 +1,1 @@
-Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
