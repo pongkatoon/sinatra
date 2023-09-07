@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
