@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add plot_images conf_thresh parameter (#8446)
