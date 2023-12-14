@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Optimize function calls to method calls (#8507)
