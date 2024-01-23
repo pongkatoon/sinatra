@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Replace onnx2tf usage from CLI to Python (#8429)
