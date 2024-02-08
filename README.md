@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix ONNX GPU inference bug (#6840)
