@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+More robust PNNX downloads (#8866)
