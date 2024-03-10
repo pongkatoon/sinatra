@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Improve Coral Edge TPU guide (#8160)
