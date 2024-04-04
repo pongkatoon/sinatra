@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add HUB-SDK Docs reference section (#7781)
