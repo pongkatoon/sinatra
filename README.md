@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Fix PNNX ubuntu -> linux bug (#7050)
