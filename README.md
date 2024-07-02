@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
