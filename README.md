@@ -1,1 +1,1 @@
-New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
