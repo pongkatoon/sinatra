@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Update neural-magic.md (#7347)
